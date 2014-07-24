@@ -1,0 +1,44 @@
+.easy_title {
+	background:#ddd;margin:10px;padding:15px;
+	-webkit-box-shadow: 4px 4px 45px 0px rgba(0,90,255,0.57);
+	-moz-box-shadow: 4px 4px 45px 0px rgba(0,90,255,0.57);
+	box-shadow: 4px 4px 45px 0px rgba(0,90,255,0.57);
+	text-align: center;
+}
+.eop-box {
+	background:#ddd;margin:10px;padding:20px;
+	font-size: 18px;
+    -webkit-box-shadow: 2px 2px 22px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 2px 2px 22px 0px rgba(0,0,0,0.5);
+    box-shadow: 2px 2px 22px 0px rgba(0,0,0,0.5);
+    -webkit-transition: -webkit-box-shadow 0.5s;  /* For Safari 3.1 to 6.0 */
+    transition: box-shadow 0.5s;
+}
+.eop-box:hover{
+    -webkit-box-shadow: 4px 4px 45px 0px rgba(0,0,0,1);
+    -moz-box-shadow: 4px 4px 45px 0px rgba(0,0,0,1);
+    box-shadow: 4px 4px 45px 0px rgba(0,0,0,1);
+
+}
+.eop-left{
+    display: inline-block;
+    vertical-align: top;
+    width: 70%;
+}
+.eop-right{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+}
+.easy-icon{
+	color:#005aff;
+	float:left;
+	height:100%;
+	font-size: 59px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.donate {
+	float:right;
+	margin-top:30px;
+}
